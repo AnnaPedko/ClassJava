@@ -13,7 +13,5 @@ public class Main {
         tree.print();
         tree.delete(10);
         tree.print();
-
-
     }
 }
